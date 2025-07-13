@@ -18,8 +18,7 @@ Junior-разработчик с сильной мотивацией разви�
 - Методологии: Agile (Scrum основы)
 
 #### Примеры кода:
-- [ToDo API на Flask](https://av-cloud82.github.io/rsschool-cv/cv)
-- [Weather App на React](https://av-cloud82.github.io/rsschool-cv/cv)
+- [CodeWars](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
 
 #### Опыт работы / Проекты:
 - **ToDo API** — REST-сервис с CRUD-операциями (Flask, SQLite, Git)
