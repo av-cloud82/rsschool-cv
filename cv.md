@@ -17,3 +17,19 @@ Junior-разработчик с сильной мотивацией разви�
 - Базы данных: SQLite, PostgreSQL
 - Методологии: Agile (Scrum основы)
 
+#### Примеры кода:
+- [ToDo API на Flask](https://av-cloud82.github.io/rsschool-cv/cv)
+- [Weather App на React](https://av-cloud82.github.io/rsschool-cv/cv)
+
+#### Опыт работы / Проекты:
+- **ToDo API** — REST-сервис с CRUD-операциями (Flask, SQLite, Git)
+- **Прогноз погоды** — SPA-приложение с использованием API и React
+- **Телеграм-бот для заметок** (Python, pyTelegramBotAPI)
+
+#### Образование:
+- Бакалавр информатики, МГУ, 2023
+- Курс «Веб-разработка» от Hexlet
+- Тренинг «Git и GitHub» на Stepik
+
+#### Английский язык:
+Уровень C2 (Professional). Свободное владение.
