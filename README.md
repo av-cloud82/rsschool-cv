@@ -1,2 +1,1 @@
-# rsschool-cv
-week_01
+https://av-cloud82.github.io/rsschool-cv/
